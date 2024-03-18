@@ -1,0 +1,36 @@
+All components were bought from https://robocraze.com/
+
+The components and it's url are as follows:
+
+1. Arduino Nano
+https://robocraze.com/products/nano-board-r3-compatible-with-arduino?_pos=7&_sid=8841230a4&_ss=r
+
+2. HC-05 Bluetooth Module
+https://robocraze.com/products/hc-05-bluetooth-module?_pos=1&_sid=514a7e0cc&_ss=r
+
+3. L298 Motor Driver
+https://robocraze.com/products/l298-motor-driver-board?_pos=1&_sid=c57b3f4ef&_ss=r
+
+4. 500RPM Plastic Gear Motor - 4N
+https://robocraze.com/products/500-rpm-geared-motor?_pos=1&_sid=708139c63&_ss=r
+
+5. 70x40mm Wheels - 4N
+https://robocraze.com/products/70x40-wheel-for-gear-motor-gear-motor-wheel-7x4cm?_pos=5&_sid=d47b77aad&_ss=r
+
+6. L-clamp - 4N
+https://robocraze.com/products/l-clamp-for-mounting-geared-motor?_pos=1&_sid=d5e368e0a&_ss=r
+
+7. 11V LiPo Battery
+https://robocraze.com/products/bonka-2200mah-35c-3s1p-11-1v-lipo-battey?_pos=3&_sid=3e7fa6c20&_ss=r
+
+Alternatively, you can use any 11V Batteries. The cheaper option is to connect 3 18650 Batteries of 3.7V in series
+7. 18650 Battery
+https://robocraze.com/products/3-7v-1800mah-18650-battery?_pos=1&_sid=8cd3c1a99&_ss=r
+
+8. Jumper Wires (Male to Female)
+https://robocraze.com/products/f2m-jumper-wires-20cm-40pcs?_pos=3&_sid=00facfd4c&_ss=r
+
+9. Breadboard (Mini)
+https://robocraze.com/products/mini-breadboard?_pos=18&_sid=00facfd4c&_ss=r
+
+Any breadboard can be used, or even a pcb.
