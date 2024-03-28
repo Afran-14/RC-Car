@@ -4,3 +4,7 @@ For the record, I built my car from scratch and won the competition conducted by
 And yea, I did have a team to help me out and a big thanks to them. Well, the more the merrier.
 
 As of now, there's the list of components, images of the components, and images of the final car.
+
+Remaining things:
+    1. Circuit Diagram
+    2. How to Build
